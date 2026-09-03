@@ -1,0 +1,5 @@
+Student Regristration Feature
+
+name: kushi
+course: DevOps
+Status: Active
